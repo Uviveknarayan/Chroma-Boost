@@ -1,1 +1,2 @@
-# music
+#ChromaBoost- A powerful Photo Editor
+
