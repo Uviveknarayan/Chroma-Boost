@@ -1,2 +1,2 @@
-#ChromaBoost- A powerful Photo Editor
+# ChromaBoost- A powerful Photo Editor
 
